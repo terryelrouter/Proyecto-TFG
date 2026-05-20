@@ -1,0 +1,15 @@
+
+------------Crear proyecto con VITE
+npm create vite@latest nombre-proyecto -- --template react
+cd nombre-proyecto
+npm install
+
+------------Correr Vite
+
+npm run dev
+
+
+
+------------Instalar todas las dependencias
+
+npm install bootstrap bootstrap-icons react-router-dom axios @paypal/react-paypal-js
